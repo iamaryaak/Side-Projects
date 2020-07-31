@@ -12,6 +12,7 @@
   
   * __Description:__ Organized files on my local drive by using the operating system dependent functionalities to seperate files by file type (file extensions).
   * __Modules/Libraries Used:__ os, shutil
+  * __Timeline:__ 4 hours
   
 Before
 
