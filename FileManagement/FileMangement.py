@@ -7,34 +7,35 @@ from os.path import isfile, join
 
 # functions to sort files
 def sortFiles(myPath):
-    # get into Downloads folder and then sort files
-    # create a list of files
-    files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
-    file_extentions=[]
-    folder_dict={}
-
-    for file in files:
-        filetype = file.split('.')[1]
-        if filetype not in file_extentions:
-            file_extentions.append(filetype)
-            new_folder_name = mypath + '/' + filetype + '_folder'
-            folder_dict[str(filetype)] = str(new_folder_name)
-            if os.path.isdir(new_folder_name)==True:  #folder exists
-                continue
+    file_extension_list = []
+    folder_path_dict = {}
+    # get files on path
+    files = [f for f in listdir(myPath) if isfile(join(myPath, f))]
+    for f in files:
+        file_extension = f.split(".")[1]
+        #print(file_extension) 
+        if file_extension not in file_extension_list:
+            file_extension_list.append(file_extension)
+            #create new path
+            new_folder_path = myPath + '/' + file_extension + '_folder'
+            folder_path_dict[str(file_extension)] = str(new_folder_path)
+        
+            # check if folder exists
+            if os.path.isdir(new_folder_path) == True:
+                continue #do nothing
             else:
-                os.mkdir(new_folder_name)
+                os.mkdir(new_folder_path)
 
-
-    for file in files:
-        src_path = mypath + '/' + file
-        filetype = file.split('.')[1]
-        if filetype in folder_dict.keys():
-            dest_path = folder_dict[str(filetype)]
-            shutil.move(src_path,dest_path)
-
-    print(src_path + '>>>' + dest_path)
+    for f in files:
+        source_path = myPath + '/' + f
+        file_extension = f.split(".")[1]
+        if file_extension in folder_path_dict.keys():
+            destination = folder_path_dict[str(file_extension)]
+            shutil.move(source_path, destination)
+    
+    print(source_path + ' to ' + destination)
 
 # main 
 if __name__ == "__main__":
-    mypath = '[your source path]'
+    mypath = '[your file path]'
     sortFiles(mypath)
