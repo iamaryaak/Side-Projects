@@ -35,6 +35,6 @@ def sortFiles(myPath):
     print(src_path + '>>>' + dest_path)
 
 # main 
-if __name__=="__main__":
-    mypath='/Users/aryakulkarni/Downloads'
+if __name__ == "__main__":
+    mypath = '[your source path]'
     sortFiles(mypath)
