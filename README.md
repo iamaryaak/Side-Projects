@@ -10,7 +10,7 @@
    
 ## Project 1 - File Management
   
-  * __Description:__ Organized files on my local drive, by using the operating system dependent functionalities, to seperate files by file type (file extensions).
+  * __Description:__ Organized files on my local drive by using the operating system dependent functionalities to seperate files by file type (file extensions).
   * __Timeline:__ One Day
   * __Modules/Libraries Used:__ os, shutil
   
