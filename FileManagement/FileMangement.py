@@ -1,5 +1,3 @@
-# author @Arya Kulkarni
-
 import os
 import shutil
 from os import listdir
