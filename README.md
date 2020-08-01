@@ -23,3 +23,7 @@ After
 <img src = "https://github.com/iamaryaak/Side-Projects/blob/master/images/Screen%20Shot%202020-07-31%20at%202.59.24%20AM.png" width="50%" height="50%"/>
 
 Possible Next Steps: I would like the process to be automated in a way such that, whenever I download a file off google, the Downloads folder will be automatically organized.
+
+## Project 2 - Chat Bot
+
+  * Details TBD
