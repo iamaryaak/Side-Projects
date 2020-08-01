@@ -24,6 +24,6 @@ After
 
 Possible Next Steps: I would like the process to be automated in a way such that, whenever I download a file off google, the Downloads folder will be automatically organized.
 
-## Project 2 - Chat Bot
+## Project 2 - Image Recognition
 
   * Details TBD
