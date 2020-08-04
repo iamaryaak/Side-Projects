@@ -27,7 +27,7 @@ Possible Next Steps: I would like the process to be automated in a way such that
 
 ## Project 2 - Covid Tracker
 
-  * Built to track Covid-19 states around the United States.
+  * Built to track Covid-19 stats.
 
 
 ## Project 3 - Image Recognition
