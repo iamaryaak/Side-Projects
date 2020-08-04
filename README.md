@@ -2,7 +2,7 @@
 
 ## Technologies Used
   
-   * Python
+   * Python, ReactJS
    
 ## IDEs Used
   
@@ -24,6 +24,12 @@ After
 
 Possible Next Steps: I would like the process to be automated in a way such that, whenever I download a file off google, the Downloads folder will be automatically organized.
 
-## Project 2 - Image Recognition
+
+## Project 2 - Covid Tracker
+
+  * Built to track Covid-19 states around the United States.
+
+
+## Project 3 - Image Recognition
 
   * Details TBD
