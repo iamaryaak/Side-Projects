@@ -32,4 +32,4 @@ After
   * __Modules/Libraries Used:__ tensorflow, keras, numpy, matplotlib, jupyter notebook
   * __Possible Next Steps:__ I would like to do this with letter recognition, same principles but different data set and implement it on my own.
   
-<img src = "https://github.com/iamaryaak/Side-Projects/blob/master/images/Screen%20Shot%202021-01-17%20at%205.49.11%20PM.png" width="50%" height="50%"/>
+<img src = "https://github.com/iamaryaak/Side-Projects/blob/master/images/Screen%20Shot%202021-01-17%20at%205.49.11%20PM.png" width="25%" height="25%"/>
