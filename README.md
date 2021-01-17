@@ -2,11 +2,11 @@
 
 ## Technologies Used
   
-   * Python, ReactJS
+   * Python, Tensorflow, Keras
    
 ## IDEs Used
   
-   * PyCharm, Vim (Terminal), VS Code
+   * PyCharm, Vim (Terminal), VS Code, Jupyter Notebook
    
 ## Project 1 - File Management
   
