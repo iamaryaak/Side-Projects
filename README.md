@@ -25,12 +25,7 @@ After
 Possible Next Steps: I would like the process to be automated in a way such that, whenever I download a file off google, the Downloads folder will be automatically organized.
 
 
-## Project 2 - Covid Tracker
+## Project 2 - Digit Recognization
 
-  * Built to track Covid-19 stats.
-  * Built with Python and Flask
-
-
-## Project 3 - Image Recognition
-
-  * Details TBD
+  * __Description:__ Using the MNIST dataset, I need to correctly identify the handwritten digits automatically
+  * __Modules/Libraries Used:__ tensorflow, keras, numpy, matplotlib, jupyter notebook
