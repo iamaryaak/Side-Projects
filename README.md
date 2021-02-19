@@ -2,7 +2,7 @@
 
 ## Technologies Used
   
-   * Python, Tensorflow, Keras
+   * Python, Tensorflow, Keras, Numpy, Tweepy
    
 ## IDEs Used
   
@@ -33,3 +33,9 @@ After
   * __Possible Next Steps:__ I would like to do this with letter recognition, same principles but different data set and implement it on my own.
   
 <img src = "https://github.com/iamaryaak/Side-Projects/blob/master/images/Screen%20Shot%202021-01-17%20at%205.49.11%20PM.png" width="25%" height="25%"/>
+
+## Project 3 - Trump Twitter Analysis
+  
+  * __Description:__ Analyzed Trump's tweets to answer various questions about his motives, which news channels he trusted, the tone of his tweets, etc. 
+  * __Modules/Libraries Used:__ os, numpy, json, pandas, seaborn
+
