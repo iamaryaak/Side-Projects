@@ -39,3 +39,14 @@ After
   * __Description:__ Analyzed Trump's tweets to answer various questions about his motives, which news channels he trusted, the tone of his tweets, etc. 
   * __Modules/Libraries Used:__ os, numpy, json, pandas, seaborn
 
+
+## Project 4 - Otsu Region Recognition
+  
+  * __Description:__ Recognizes how many regions exist in an image
+  * __Modules/Libraries Used:__ numpy, open-cv, PIL, matplotlib
+  
+  
+## Project 5 - Face Recognition (using Eigenfaces)
+
+* __Description:__ Train a machine learning algorithm to recognize faces from the AT&T face recognition dataset using the Eigenfaces algorithm
+* __Modules/Libraries Used:__ numpy, open-cv, PIL, matplotlib, os
