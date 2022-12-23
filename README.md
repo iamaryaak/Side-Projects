@@ -1,8 +1,8 @@
 # Side-Projects
 
-## Technologies Used
+## Technologies and Libraries Used
   
-   * Python, Tensorflow, Keras, Numpy, Tweepy
+   * Python, Tensorflow, Keras, Numpy, Tweepy, Open-CV, PIL, Matplotlib
    
 ## IDEs Used
   
