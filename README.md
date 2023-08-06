@@ -50,3 +50,9 @@ After
 
 * __Description:__ Train a machine learning algorithm to recognize faces from the AT&T face recognition dataset using the Eigenfaces algorithm
 * __Modules/Libraries Used:__ numpy, open-cv, PIL, matplotlib, os
+
+## Project 6 - Simple Discord Rock, Paper, Scissor Bot in golang
+  
+  * __Description:__ Plays one round of R, P, S with you.
+  * __Modules/Libraries Used:__ golang, fmt, discordgo
+  * __Possible Next Steps:__ I would like there to be more logic behind this bot and find a constant server to host the bot on
