@@ -2,7 +2,7 @@
 
 ## File Descriptor
 hello.go - "Hello, World!" program written in go
-discordBot/main.go - run using `go run .`, this will activate the discord bot and it will only respond with "world!" if the user types "hello" in discord chat.
+discordBot/main.go - run using `go run .`, this will activate the discord bot and it will only respond with either "rock", "paper", or "scissor" for the bot to play against you
 
 
 ## Progress Logs
