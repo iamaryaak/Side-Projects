@@ -15,7 +15,7 @@ import (
  */
 
 func main() {
-	session, err := discordgo.New("Bot " + "MTEzNTc2MjE3MTQ1MjcyMzM1MA.GbiUpU.nXUzwViJCMtEhDMIiIC9impGAc55CRgTBiaffM")
+	session, err := discordgo.New("Bot " + "your bot")
 	if err != nil {
 		log.Fatal((err))
 	}
