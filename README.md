@@ -56,3 +56,11 @@ After
   * __Description:__ Plays one round of R, P, S with you.
   * __Modules/Libraries Used:__ golang, fmt, discordgo
   * __Possible Next Steps:__ I would like there to be more logic behind this bot and find a constant server to host the bot on
+
+## Project 7 - vlr.gg on the command line!
+  
+  * __Description:__ Shows top 3 newest VALORANT esports articles!
+  * __Modules/Libraries Used:__ golang, fmt, json, http, os, vlr API - https://github.com/axsddlr/vlrggapi
+  * __Possible Next Steps:__ FantasyVCT (soon)
+
+![Gif Demoing the CLI](https://raw.githubusercontent.com/iamaryaak/Side-Projects/master/images/vlrGo_demo.gif)
